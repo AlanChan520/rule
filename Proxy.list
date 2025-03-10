@@ -2,7 +2,7 @@
 
 # 自定义
 DOMAIN-SUFFIX,fast.com
-
+DOMAIN-KEYWORD,cloudflare
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,qichiyu.com
