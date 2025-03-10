@@ -1,5 +1,10 @@
 # 直连补充列表(国内域名不解析时，防止走代理使用)
 
+# 自定义
+DOMAIN-SUFFIX,nascz.com
+DOMAIN-SUFFIX,871103.xyz
+DOMAIN-SUFFIX,czhe.cn
+
 # MyList
 # 域名后缀匹配
 DOMAIN-SUFFIX,time.windows.com
