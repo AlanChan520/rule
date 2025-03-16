@@ -4,6 +4,9 @@
 DOMAIN-SUFFIX,fast.com
 DOMAIN-KEYWORD,cloudflare
 DOMAIN-KEYWORD,sun-panel
+DOMAIN-SUFFIX,ipleak.net
+DOMAIN-SUFFIX,browserleaks.com
+DOMAIN-SUFFIX,speed.cloudflare.com
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,qichiyu.com
